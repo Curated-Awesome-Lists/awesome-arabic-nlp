@@ -80,14 +80,12 @@ Qutuf (قُطُوْف): An Arabic Morphological analyzer and Part-Of-Speech tagg
 
 - [للغة العربية NLP - Arabic Natural Language Processing | Udemy](https://www.udemy.com/course/arabic-natural-language-processing-nlp/)
 course that will prepare you to use Natural Language Processing for the Arabic Language. We will cover the fundamentals of Machine Learning/ NLP.
-- [البرمجة اللغوية العصبية | NLP | Coursera](https://www.coursera.org/learn/nlp-)
 - [Natural Language Processing Specialization 4 courses](https://www.coursera.org/specializations/natural-language-processing)
 Offered by deeplearning.ai. Natural Language Processing (NLP) uses algorithms to understand and manipulate human language. This technology is one of the most broadly applied areas of machine learning. By the end of this Specialization, you will be ready to design NLP applications that perform question-answering and sentiment analysis, create tools to translate languages and summarize text, and even build chatbots.
 - [Natural Language Processing Course | Udacity](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892)
 - [Natural Language Processing with Attention Models Course](https://www.coursera.org/learn/attention-models-in-nlp)
 - [Natural Language Processing in TensorFlow | Coursera](https://www.coursera.org/learn/natural-language-processing-tensorflow)
 - [NLP - Natural Language Processing with Python | Udemy](https://www.udemy.com/course/nlp-natural-language-processing-with-python/)
-- [NLP البرمجة اللغوية العصبية | Udemy](https://www.udemy.com/course/nlp-vkxw/)
 - [Learn BERT - most powerful NLP algorithm by Google | Udemy](https://www.udemy.com/course/bert-nlp-algorithm/): Understand and apply Google's game-changing NLP algorithm, BERT, to real-world tasks. Build 2 NLP applications.
 
 ## Books
@@ -100,7 +98,6 @@ This book addresses common challenges in intelligent natural language processing
 his article focuses on Arabic natural language processing for Qur'anic research and its implications.
 - [Arabic Language Processing: From Theory to Practice: 6th ](https://link.springer.com/book/10.1007/978-3-319-73500-9) ⭐️
 This book includes revised selected papers from the 6th International Conference on Arabic Language Processing, covering theory and practice.
-- [البرمجة اللغوية العصبية NLP (Arabic Edition) eBook - Amazon.com](https://www.amazon.com/%E2%80%AB%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A7%D9%84%D9%84%D8%BA%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B5%D8%A8%D9%8A%D8%A9-NLP%E2%80%AC-Arabic-ebook/dp/B09ZFCMLTY)  Arabic edition of the book "Neural Linguistic Programming (NLP)", specifically tailored to Arabic NLP.
 - [Natural language processing: state of the art, current trends and ](https://link.springer.com/article/10.1007/s11042-022-13428-4)  A research article discussing the state of the art in natural language processing, including work done on Arabic language analysis.
 - [Improve Your Writing With NLP: Judith E Pearson: 9781845908614 ](https://www.amazon.com/Improve-Your-Writing-Judith-Pearson/dp/1845908619) This book explores NLP strategies that can transform novice writers into accomplished ones, utilizing resourceful states, beliefs, cognitive strategies, and behaviors of highly skilled writers.
 - [Advances in Natural Language Processing: 7th International ](https://link.springer.com/book/10.1007/978-3-642-14770-8)  A book in the Lecture Notes in Computer Science series, covering advances in natural language processing.
