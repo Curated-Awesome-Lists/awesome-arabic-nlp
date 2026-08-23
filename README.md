@@ -170,6 +170,7 @@ This book includes revised selected papers from the 6th International Conference
 - [spaCy download | SourceForge.net](https://sourceforge.net/projects/spacy.mirror/): spaCy is an industrial-strength NLP library built on the latest research for advanced NLP in Python and Cython. It is designed for real-world applications and can be used for building products and gaining insights.
 - [Natural Language Toolkit download | SourceForge.net](https://sourceforge.net/projects/nltk/): The Natural Language Toolkit (NLTK) is a library for NLP. It provides tools and resources for tasks such as tokenization, stemming, lemmatization, parsing, semantic reasoning, and more.
 
+- [3ammiya](https://3ammiya.com): A searchable Egyptian Arabic dictionary with Franco-Arabic transliteration and 6,300+ community-built definitions. Useful for Egyptian dialect NLP research and as a reference for colloquial Arabic processing.
 ## Conferences & Events
 
 - [Find Intellectual Discussion Events & Groups in Dubai, AE](https://www.meetup.com/find/ae--dubai/intellectual-discussion/): Intellectual discussion events near Dubai, AE. Connect with people who share your interests and attend online or in-person events.
