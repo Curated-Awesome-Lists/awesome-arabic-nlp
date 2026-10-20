@@ -169,6 +169,7 @@ This book includes revised selected papers from the 6th International Conference
 - [Best Natural Language Understanding (NLU) Software in 2023 | G2](https://www.g2.com/categories/natural-language-understanding-nlu): Natural language understanding (NLU), a form of natural language processing (NLP), allows users to better understand text through machine learning. This website provides real-time, up-to-date product reviews from verified users to help you choose the right NLU software.
 - [spaCy download | SourceForge.net](https://sourceforge.net/projects/spacy.mirror/): spaCy is an industrial-strength NLP library built on the latest research for advanced NLP in Python and Cython. It is designed for real-world applications and can be used for building products and gaining insights.
 - [Natural Language Toolkit download | SourceForge.net](https://sourceforge.net/projects/nltk/): The Natural Language Toolkit (NLTK) is a library for NLP. It provides tools and resources for tasks such as tokenization, stemming, lemmatization, parsing, semantic reasoning, and more.
+- **[toolcraftx](https://toolcraftx.com)** — Free Arabic-first AI toolbox with 14 tools (SEO writer, blog outline, social caption, video script, product description, headline generator, and 8 more). Built natively for Modern Standard Arabic — not translated from English prompts. Handles Arabic grammar, dialects, RTL text flow, and cultural context.
 
 ## Conferences & Events
 
